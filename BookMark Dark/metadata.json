@@ -1,0 +1,6 @@
+{
+  "name": "BOOKMARK",
+  "description": "A personal web app library to save, organize, and access your favorite websites like desktop apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
